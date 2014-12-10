@@ -1,0 +1,17 @@
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe.config
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe
+F:\project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.pdb
+F:\project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.exe
+F:\project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.pdb
+D:\FTFL Project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe.config
+D:\FTFL Project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.exe
+D:\FTFL Project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.pdb
+D:\FTFL Project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe
+D:\FTFL Project\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.pdb
+D:\FTFL Project\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe.config
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.exe
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.pdb
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.exe
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\bin\Debug\BigSmallApp.pdb
+F:\Shawon\FTFL Project\Day 01\BigSmallApp\BigSmallApp\obj\Debug\BigSmallApp.csprojResolveAssemblyReference.cache

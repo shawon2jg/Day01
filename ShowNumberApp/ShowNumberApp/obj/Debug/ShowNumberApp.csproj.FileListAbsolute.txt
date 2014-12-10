@@ -1,0 +1,5 @@
+D:\FTFL Project\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.exe.config
+D:\FTFL Project\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.exe
+D:\FTFL Project\ShowNumberApp\ShowNumberApp\bin\Debug\ShowNumberApp.pdb
+D:\FTFL Project\ShowNumberApp\ShowNumberApp\obj\Debug\ShowNumberApp.exe
+D:\FTFL Project\ShowNumberApp\ShowNumberApp\obj\Debug\ShowNumberApp.pdb

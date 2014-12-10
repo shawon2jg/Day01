@@ -1,0 +1,12 @@
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\FTFL Project\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+F:\Shawon\FTFL Project\Day 01\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb

@@ -1,0 +1,6 @@
+D:\FTFL Project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe.config
+D:\FTFL Project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.exe
+D:\FTFL Project\GreetingsApp\GreetingsApp\bin\Debug\GreetingsApp.pdb
+D:\FTFL Project\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.csprojResolveAssemblyReference.cache
+D:\FTFL Project\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.exe
+D:\FTFL Project\GreetingsApp\GreetingsApp\obj\Debug\GreetingsApp.pdb

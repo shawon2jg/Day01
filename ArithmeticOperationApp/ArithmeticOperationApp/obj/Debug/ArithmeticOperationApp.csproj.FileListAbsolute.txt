@@ -1,0 +1,12 @@
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.exe.config
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.exe
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.pdb
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.csprojResolveAssemblyReference.cache
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.exe
+D:\FTFL Project\ArithmeticOperationApp\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.pdb
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.exe.config
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.exe
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.pdb
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.exe
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\bin\Debug\ArithmeticOperationApp.pdb
+F:\Shawon\FTFL Project\Day 01\ArithmeticOperationApp\ArithmeticOperationApp\obj\Debug\ArithmeticOperationApp.csprojResolveAssemblyReference.cache

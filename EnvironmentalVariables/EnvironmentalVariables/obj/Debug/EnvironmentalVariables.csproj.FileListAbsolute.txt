@@ -1,0 +1,6 @@
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\bin\Debug\EnvironmentalVariables.exe.config
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\obj\Debug\EnvironmentalVariables.csprojResolveAssemblyReference.cache
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\bin\Debug\EnvironmentalVariables.exe
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\bin\Debug\EnvironmentalVariables.pdb
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\obj\Debug\EnvironmentalVariables.exe
+D:\FTFL Project\EnvironmentalVariables\EnvironmentalVariables\obj\Debug\EnvironmentalVariables.pdb

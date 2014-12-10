@@ -1,0 +1,5 @@
+D:\FTFL Project\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe.config
+D:\FTFL Project\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.exe
+D:\FTFL Project\UpperLowerApp\UpperLowerApp\bin\Debug\UpperLowerApp.pdb
+D:\FTFL Project\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.exe
+D:\FTFL Project\UpperLowerApp\UpperLowerApp\obj\Debug\UpperLowerApp.pdb
